@@ -1,7 +1,6 @@
 ## Chloride_concenTransition model
 
-Focal seizure model of Matlab format  was created by Jyun-you Liou et al., See referenceLiou J, Smith E H, Bateman L M, et al. 
-A model for focal seizure onset, propagation, evolution, and progression[J]. elife, 2020, 9: e50927.
+The MATLAB implementation of model of chloride concentration in modulating seizure transitions was modified from the model developed by Jyun-you Liou et al. (Liou J, Smith EH, Bateman LM, et al., A model for focal seizure onset, propagation, evolution, and progression, eLife, 2020, 9:e50927).
 
 
 
